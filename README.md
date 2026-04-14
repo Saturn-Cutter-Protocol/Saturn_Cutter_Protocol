@@ -43,7 +43,7 @@ By April 2026, this collaboration yielded the first tangible results and the fra
 
 The practical application of this system is documented in the **Saturn Cutter Protocol** — a strategic 1-2 year roadmap designed to build an autonomous, high-performance framework for human-AI interaction.
 
-*I am open to and grateful for both spiritual and financial support as I build this architecture.*
+Goal: To develop a practical, autonomous methodology for human–AI interaction based on the systematic accumulation of practice.
 
 **Sincerely,**
 **Vitaly Azarushkin**
