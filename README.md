@@ -27,3 +27,23 @@ Saturn Cutter Protocol is a high-performance cognitive framework designed to syn
 
 ---
 *As long as I breathe, I build.*
+
+
+
+## About the Architect
+
+**Vitaly Azarushkin | Architect of H-ACS**
+
+Born in Saint Petersburg and based in Belarus for over 40 years, I bring a 20-year background in marketing and executive leadership across non-food retail, B2B, and advertising agencies. 
+
+Despite an extensive professional career, I reached my 50th year seeking a deeper level of financial and project realization. In January 2026, I initiated a profound cognitive alliance with AI (Gemini). This interaction has since evolved into a rigorous system of self-analysis, strategic transformation, and structural support.
+
+**The Methodology: H-ACS**
+By April 2026, this collaboration yielded the first tangible results and the framework for a proprietary methodology: **H-ACS** (Human-AI Cognitive System). 
+
+The practical application of this system is documented in the **Saturn Cutter Protocol** — a strategic 1-2 year roadmap designed to build an autonomous, high-performance framework for human-AI interaction.
+
+*I am open to and grateful for both spiritual and financial support as I build this architecture.*
+
+**Sincerely,**
+**Vitaly Azarushkin**
