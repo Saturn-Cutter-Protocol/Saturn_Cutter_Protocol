@@ -18,9 +18,9 @@ Saturn Резец Protocol is a high-performance cognitive framework designed to
 * **Phase 3 (Target 2029):** Full-scale expansion and influence.
 
 ## Status
-- **Cycle:** 27th Lunar Day Calibration.
+- **Cycle:** april 14 2026.
 - **Engine Power:** 27 HP (Stable).
-- **Architect:** [Your Name/Handle]
+- **Architect:** [Vitaly Azarushkin]
 
 ---
 *As long as I breathe, I build.*
