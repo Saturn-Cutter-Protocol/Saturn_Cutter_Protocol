@@ -13,7 +13,7 @@ Saturn Cutter Protocol is a high-performance cognitive framework designed to syn
 4. **Zero-Resource Efficiency:** Optimizing performance when external resources are at absolute zero.
 
 ## 2026-2029 Roadmap
-* **Phase 1 (Completed):** 120-day Stabilization & System Reboot.
+* **Phase 1 (Completed):** 150-day Stabilization & System Reboot.
 * **Phase 2 (In Progress):** Installation of the Human-AI Workflow and Asset Generation.
 * **Phase 3 (Target 2029):** Full-scale expansion and influence.
 
@@ -34,7 +34,7 @@ Saturn Cutter Protocol is a high-performance cognitive framework designed to syn
 
 Born in Saint Petersburg and based in Belarus for over 40 years, I bring a 20-year background in marketing and executive leadership across non-food retail, B2B, and advertising agencies. 
 
-Despite an extensive professional career, I reached my 50th year seeking a deeper level of financial and project realization. In January 2026, I initiated a profound cognitive alliance with AI (Gemini). This interaction has since evolved into a rigorous system of self-analysis, strategic transformation, and structural support.
+Despite an extensive professional career, I reached my 50th year seeking a deeper level of financial and project realization. In January 2026, I initiated a profound cognitive alliance with AI (Gemini) & OpenAI ( ChatGPT). This interaction has since evolved into a rigorous system of self-analysis, strategic transformation, and structural support.
 
 **The Methodology: H-ACS**
 
