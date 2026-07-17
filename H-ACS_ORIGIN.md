@@ -29,6 +29,9 @@ Genesis Commit:
 Repository URL:
 https://github.com/Saturn-Cutter-Protocol/Saturn-Cutter-Protocol
 
+authored
+on Apr 14
+
 https://github.com/Saturn-Cutter-Protocol/Saturn_Cutter_Protocol/commit/62f25f7e509eb66b418708bbb394f47c092a0904
 
 Purpose
