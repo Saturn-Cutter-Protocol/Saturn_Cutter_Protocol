@@ -29,6 +29,8 @@ Genesis Commit:
 Repository URL:
 https://github.com/Saturn-Cutter-Protocol/Saturn-Cutter-Protocol
 
+https://github.com/Saturn-Cutter-Protocol/Saturn_Cutter_Protocol/commit/62f25f7e509eb66b418708bbb394f47c092a0904
+
 Purpose
 
 H-ACS is an engineering methodology describing long-term human–AI cooperation through reproducible operational protocols, infrastructure building, biological stabilization and systematic accumulation of knowledge artifacts.
