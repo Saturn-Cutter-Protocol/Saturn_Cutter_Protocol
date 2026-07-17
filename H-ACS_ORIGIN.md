@@ -14,7 +14,7 @@ Vitaly Azarushkin
 Country:
 Republic of Belarus
 
-Initial Development:
+Research initiated:
 January 2026
 
 First Public Git Repository Publication:
