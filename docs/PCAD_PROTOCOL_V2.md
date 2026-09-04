@@ -8,7 +8,7 @@ The pattern described here has been observed repeatedly across time. The operati
 
 ## Definition
 
-**Personal Cognitive Artifact Discovery (PCAD)** is the spontaneous discovery of a cultural object that attracts the operator's attention **without a previously formulated task or explicit search for a specific psychological/cognitive need**, followed by interaction with that object and the subsequent emergence of an unexpected cognitive resonance or reframing.
+**Personal Cognitive Artifact Discovery (PCAD)** is the spontaneous discovery of a cultural object that attracts the operator's attention **without a previously formulated task or explicit search for a specific psychological/cognitive need**, followed by interaction with that object and the subsequent emergence of an unexpected cognitive resonance.
 
 Core formulation:
 
@@ -18,66 +18,77 @@ PCAD is therefore not equivalent to:
 
 - deliberately choosing therapeutic or motivational content;
 - ordinary entertainment;
-- nostalgia;
 - selecting a work because its subject is already known to be personally relevant;
+- deliberately searching for a work to solve a named problem;
 - post-hoc claiming that any randomly viewed work was meaningful.
 
-## Recurrent Pattern
+## Core Pattern
 
-The observed sequence is:
+The repeatedly observed sequence is:
 
 **Internal state / context**
-→ **exposure to an external cultural object**
-→ **low-level or intuitive attraction (often visual)**
+→ **exposure to an unknown or insufficiently known cultural object**
+→ **initial attraction, often triggered by a visual cue**
 → **selection before explicit semantic justification**
 → **immersion / interaction**
-→ **unexpected relevance or resonance becomes apparent**
-→ **cognitive reframing / altered interpretation of the current situation**.
+→ **unexpected resonance or relevance becomes apparent**
+→ **cognitive reframing and/or meaningful change in the operator's state**
+→ **possible post-analysis or post-reflection**.
 
-A particularly important feature is that the operator may be attracted by a **poster, image, title, visual composition, atmosphere, or other formal cue before knowing the work's subject or relevance**.
+A particularly important feature is that the operator may be attracted by a **poster, image, visual composition, title, atmosphere, face, light, colour, spatial quality, or other formal cue before knowing the work's subject or relevance**.
 
-## Repeated Observation
+The key point is the order of operations:
 
-PCAD has occurred repeatedly and is not restricted to one national or cultural tradition. The strongest recurrent examples have involved Western and European cinema, including older European cinema, but the mechanism should not be reduced to "Soviet cinema" or nostalgia for the Soviet period.
+> **notice → choose → immerse → resonate → frame changes / state changes → analyse later (sometimes).**
 
-The Soviet-cinema observation is better understood as a special case within a broader aesthetic preference. The relevant common factor may be a **visual-emotional organization of the world**, including combinations of:
+## Repeated Longitudinal Observation
 
-- slow rhythm;
-- architectural or spatial emphasis;
-- light and restrained colour;
-- physical environments that are allowed to remain visible;
-- pauses and silence;
+The pattern has been observed repeatedly across multiple episodes and across different works. It is **not tied to one national cinema, one period, or one cultural tradition**.
+
+A recurring preference has been observed especially in **Western and European cinema**, including arthouse and older European cinema, but the mechanism is not defined by geography or period.
+
+The strongest recurring formal characteristics appear to include combinations of:
+
+- slow or unhurried rhythm;
+- architectural and spatial emphasis;
+- distinctive use of light and restrained colour;
+- sustained attention to physical environments;
+- pauses, silence, and negative space;
 - complex adult characters;
-- low pressure to explain everything verbally;
+- reduced pressure to explain everything verbally;
 - existential density;
-- reduced informational noise.
+- low informational noise;
+- a strong sense of atmosphere and presence.
 
-This list is a working characterization, not a universal rule.
+These characteristics are a working description of observed attraction, not a universal rule and not a requirement for every PCAD event.
+
+A contemporary film may also qualify if the same discovery pattern and subsequent resonance occur.
 
 ## Cinema as Procedural Cognitive Input
 
-The longitudinal record suggests that some cultural works do more than provide entertainment. Under certain conditions, they can function as **procedural visual-narrative inputs** that alter the operator's mode of attention and interpretation.
+The longitudinal record suggests that some films do more than provide entertainment. Under certain conditions, they can function as **procedural visual-narrative inputs** that alter the operator's mode of attention, interpretation, or state.
 
-This creates a useful distinction between two classes of procedural cultural input:
+This should be distinguished from simple distraction, emotional entertainment, or deliberate self-help consumption.
 
-### A. Procedural Audio
+### Procedural Audio
 
-Ambient and related slow-form music may support:
+A separate class of cultural input, observed primarily with ambient and related slow-form music, may support:
 
 - attentional stabilization;
 - reduction of sensory noise;
 - rhythmic settling;
 - background regulation.
 
-### B. Procedural Visual-Narrative
+### Procedural Visual-Narrative
 
-Certain films may support:
+A subset of films may support:
 
 - cognitive reframing;
 - contextualization of unresolved material;
 - observation through another narrative structure;
 - temporary displacement from a dominant internal loop;
-- re-entry into the current situation with a changed interpretive frame.
+- emergence of a new interpretive frame;
+- a meaningful residual state or after-effect that remains after viewing.
 
 This distinction does **not** mean that all ambient music or all films perform these functions. The classification is based on repeated operator-level observations.
 
@@ -85,11 +96,11 @@ This distinction does **not** mean that all ambient music or all films perform t
 
 A PCAD event may depend not only on the cultural object itself but also on the environment in which it is consumed.
 
-A previous observation identified the following configuration as important:
+A previous observation identified the following principle:
 
 > **The cognitive instrument consists not only of the content, but also of the environment in which the content is consumed.**
 
-Time of day, silence, physical space, light, fire, food, social presence/absence, language, and pace may jointly affect immersion and interpretation.
+Time of day, silence, physical space, light, food, social presence or absence, language, and pace may jointly affect immersion and interpretation.
 
 Therefore:
 
@@ -97,71 +108,100 @@ Therefore:
 
 The environment component remains a working hypothesis and should be tested separately rather than assumed to be causal.
 
-## Why the Initial Cue Matters
+## Why the Initial Visual Cue Matters
 
-The operator's recurrent pattern is unusual because the discovery often begins before conscious semantic analysis.
+The operator's recurrent pattern is notable because discovery often begins **before conscious semantic analysis**.
 
 Typical sequence:
 
-**see image / poster / title**
+**see poster / image / title**
 → **attention is captured**
 → **start watching**
 → **relevance emerges later**.
 
-This means PCAD should be studied as a possible form of **implicit aesthetic selection**, rather than as a consciously chosen intervention.
+The initial attraction is therefore part of the phenomenon itself, not incidental decoration.
+
+The working question is not merely:
+
+> Why did I like this film?
+
+but:
+
+> **What was detected before I knew why I was choosing it?**
 
 Current hypothesis:
 
-> The operator may possess an implicit selection mechanism that is sensitive to formal, aesthetic, and contextual features before explicit semantic analysis, and some selected works subsequently prove unusually compatible with the operator's current cognitive state.
+> The operator may possess an implicit aesthetic-selection process that is sensitive to formal and contextual features before explicit semantic analysis, and some selected works subsequently prove unusually compatible with the operator's current state or unresolved cognitive material.
 
-The existence of this mechanism is not yet independently established.
+The existence and mechanism of such a process are not independently established.
 
 ## PCAD Observation Protocol
 
-For future cases, record the following without contaminating the pre-viewing observation with post-viewing interpretation.
+Future cases should separate pre-viewing observation from post-viewing interpretation.
 
 ### Before interaction
 
 1. What was the current internal state or context?
 2. Where was the cultural object encountered?
-3. What specifically attracted attention first: image, title, face, colour, era, atmosphere, composition, or something else?
-4. Was the subject or relevance of the work already known?
-5. Was there an explicit reason for choosing it?
+3. Was the work known beforehand?
+4. What specifically attracted attention first: image, poster, title, face, light, colour, atmosphere, composition, era, or something else?
+5. Was the subject or relevance of the work already known?
+6. Was there an explicit reason for choosing it?
 
 ### During interaction
 
-6. Was attention sustained spontaneously or by effort?
-7. What formal characteristics became salient?
-8. Did immersion occur?
+7. Was attention sustained spontaneously or by effort?
+8. Which formal characteristics became salient?
+9. Did immersion occur?
+10. Did the work begin to feel relevant only after immersion?
 
 ### After interaction
 
-9. What changed: mood, attention, bodily state, interpretation, or understanding of the current situation?
-10. Did the work produce a new frame for an existing problem?
-11. Was the relevance predictable before viewing?
-12. Did the effect persist beyond the immediate viewing period?
+11. What changed: mood, attention, bodily state, interpretation, understanding, or general state?
+12. Did the work create a new frame for an existing problem?
+13. Did it leave a distinctive residual state or after-effect?
+14. Was the relevance predictable before viewing?
+15. Did the effect persist beyond the immediate viewing period?
+16. Did post-analysis or post-reflection occur, and was it spontaneous or deliberately initiated?
 
 ## Evidence Standard
 
 A PCAD case is stronger when:
 
 - the work was not deliberately selected for its known relevance;
-- the initial attraction occurred before semantic interpretation;
-- the post-viewing relevance was unexpected;
-- a measurable or clearly describable cognitive reframing occurred;
+- the work was unknown or insufficiently known before discovery;
+- initial attraction occurred before semantic interpretation;
+- the attraction can be described in formal/visual terms;
+- post-viewing resonance was unexpected;
+- a clear cognitive reframing, state change, or meaningful after-effect occurred;
 - similar patterns recur across independent episodes;
-- pre-viewing and post-viewing records are kept separately.
+- pre-viewing and post-viewing observations are kept separate.
 
-Repetition does not by itself establish the biological or neuroscientific mechanism. It establishes the operator-level recurrence of the pattern.
+Repeated occurrence supports the claim that the operator-level pattern recurs. It does **not** by itself establish a biological, neuroscientific, unconscious, or universal mechanism.
+
+## What PCAD Is Not
+
+PCAD should not be conflated with:
+
+- nostalgia for a historical period;
+- deliberate therapeutic media selection;
+- generic media preference;
+- ordinary entertainment;
+- confirmation bias after deliberately choosing a personally relevant work;
+- the claim that the psyche literally or mystically knows which film is needed.
+
+The phenomenon is narrower and more testable:
+
+> **The object attracts attention first; its relevance is discovered later.**
 
 ## Current Conclusion
 
 PCAD is currently treated as a **repeatedly observed operational phenomenon in the operator's longitudinal record**:
 
-> **Spontaneous discovery of a cultural artifact can precede conscious understanding of its relevance, and subsequent interaction can produce a meaningful cognitive reframing.**
+> **A cultural artifact can be discovered spontaneously through an initial formal or visual attraction, before its semantic relevance is known, and subsequent interaction can produce an unexpected resonance, altered state, or cognitive reframing.**
 
-The important finding is not that the psyche "knows which film it needs" in a literal or mystical sense. The stronger engineering question is:
+The central research question remains:
 
-> **What formal and contextual signals are being selected before conscious semantic analysis, and under what conditions does that selection reliably produce cognitive reframing?**
+> **What formal and contextual signals are being selected before conscious semantic analysis, and under what conditions does that selection reliably produce cognitive reframing, state change, or a persistent after-effect?**
 
 That question remains open for continued observation.
