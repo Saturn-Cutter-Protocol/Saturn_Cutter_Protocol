@@ -50,5 +50,10 @@ This repository separates:
 
 Each layer is maintained in its dedicated document to prevent conceptual mixing and maintain structural clarity.
 
+---
 
+## Public Research Artifacts
 
+- [H-ACS Case Study: Deep Cognitive Collaboration & AI Audit](case-studies/2026-10-03_anthropic-interview.md) — author-edited transcript of the October 2026 Anthropic interview.
+- External publication: Facebook, 2026-10-03 12:35 (Europe/Amsterdam).
+- Official study: https://www.anthropic.com/research/your-thoughts-on-ai
