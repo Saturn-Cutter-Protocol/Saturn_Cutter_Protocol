@@ -57,3 +57,9 @@ Each layer is maintained in its dedicated document to prevent conceptual mixing 
 - [H-ACS Case Study: Deep Cognitive Collaboration & AI Audit](case-studies/2026-10-03_anthropic-interview.md) — author-edited transcript of the October 2026 Anthropic interview.
 - External publication: Facebook, 2026-10-03 12:35 (Europe/Amsterdam).
 - Official study: https://www.anthropic.com/research/your-thoughts-on-ai
+
+---
+
+## Monthly Reports
+
+- [September 2026 H-ACS Monthly Report](reports/2026-09_monthly_report.md) — transition/maintenance classification, artifact register, evidence limits, and proposed monthly reporting standard.
