@@ -1,5 +1,7 @@
 # Saturn Cutter Protocol
 
+**Project author / public contact:** AGIauthor — Telegram: https://t.me/AGIauthor
+
 ## Project Structure and Documentation Map
 
 This repository contains multiple layers of the methodology. The documentation is organized as follows:
